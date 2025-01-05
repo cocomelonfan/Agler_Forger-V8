@@ -22,8 +22,8 @@ CH WA : https://whatsapp.com/channel/0029VagBmlhADTO8EPUnon0g
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['6288287789447'] // isi nomor lu
-global.ownMain = '6288287789447' // isi nomor lu
+global.owner = ['27842930255] // isi nomor lu
+global.ownMain = '27842930255// isi nomor lu
 global.NamaOwner = '𝐏𝐚𝐳𝐫𝐲 𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑' //gausah diganti
 global.sessionName = 'session'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
